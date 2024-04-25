@@ -1,10 +1,12 @@
 {
-  "Name": "Flankers",
-  "ReferencesAndLinks": ["pending"],
-  "Authors": [
-    "James F Cavanagh  jcavanagh@unm.edu",
-    "Mark Lavelle  mlavelle@unm.edu"
-  ],
-  "License": "",
-  "BIDSVersion": "1.1.1"
+    "Name": "EEG: Flankers with varying luminance",
+    "ReferencesAndLinks": [
+        "pending"
+    ],
+    "Authors": [
+        "James F Cavanagh  jcavanagh@unm.edu",
+        "Mark Lavelle  mlavelle@unm.edu"
+    ],
+    "License": "CC0",
+    "BIDSVersion": "1.1.1"
 }
