@@ -1,0 +1,19 @@
+{
+  "InstitutionName": "University of New Mexico",
+  "InstitutionalDepartmentName": "Psychology",
+  "PowerLineFrequency": 60,
+  "ManufacturersModelName": "EGI",
+  "EEGGround": "whatevs",
+  "EEGReference": "Cz",
+  "EEGChannelCount": 128,
+  "EOGChannelCount": 1,
+  "ECGChannelCount": 1,
+  "EMGChannelCount": 1,
+  "TaskName": "Flankers",
+  "MiscChannelCount": 128,
+  "RecordingType": "continuous",
+  "RecordingDuration": 845.948,
+  "SamplingFrequency": 250,
+  "SubjectArtefactDescription": "not much to say given this was run 9 years ago...",
+  "SoftwareFilters": "n/a"
+}
